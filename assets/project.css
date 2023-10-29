@@ -1,0 +1,41 @@
+/* styles.css */
+body {
+    background-color: lightgray;
+}
+
+.item-content {
+    background-color: white;
+    margin-top: 10px;
+    width: 280px;
+    height: 160px;
+    padding: 10px;
+}
+
+.item-text-font1 {
+    font-weight: 700;
+    font-size: 50px;
+}
+
+.item-text-font2 {
+    font-weight: 900;
+    font-size: 70px;
+}
+
+.item-text-font3 {
+    font-weight: 450;
+    font-size: 26px;
+}
+
+.item-text-font4 {
+    font-weight: 450;
+    font-size: 24px;
+}
+
+.item-text-font5 {
+    font-weight: 500;
+    font-size: 30px;
+}
+
+.color-blue {
+    color: rgb(49, 66, 91);
+}
